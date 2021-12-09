@@ -1,0 +1,5 @@
+*.eps filter=lfs diff=lfs merge=lfs -text
+figure8.eps filter=lfs diff=lfs merge=lfs -text
+figure6.eps filter=lfs diff=lfs merge=lfs -text
+figure7.eps filter=lfs diff=lfs merge=lfs -text
+figure9.eps filter=lfs diff=lfs merge=lfs -text
